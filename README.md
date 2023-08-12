@@ -1,2 +1,1 @@
-# babs-landingpage
-Balance and Being Landing Page
+This project is going to be my interpretation of a business landing page.
